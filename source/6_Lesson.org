@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Marc Scott
+#+AUTHOR: Stephen Brown
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -74,32 +74,28 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* Additional SolidWorks Help
+* Evaluation
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Try It
+** Test It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: try
+:HTML_CONTAINER_CLASS: test
 :END:
-
-
-- If you need a little practice at using SolidWorks, here are a few video tutorials that will guide you through making a few parts in SolidWorks.
-#+BEGIN_HTML
-<video width="600" controls>
-  <source src="img/Base.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-#+END_HTML
-#+BEGIN_HTML
-<video width="600" controls>
-  <source src="img/Upright.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-#+END_HTML
-#+BEGIN_HTML
-<video width="600" controls>
-  <source src="img/Assemble.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-#+END_HTML
+- Now that you've finished the project, it's time to reflect on the work.
+- You've made just one box. what if we wanted to make 100 of them, or 1000? 
+- What could be done to manufacture the boxes faster? 
+- Is MDF the best material to use? What could be use instead? Why would that be better? Would there be any negative points to using that?
+- What do you like the most about the box? What don't you like? 
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Write an evaluation of your work by answering the following questions:
+   - Why is it important to test a product before putting it on sale?
+   - What is good about your box?
+   - What isn't so good?
+   - If you were to make it again right now, how could it be improved? 
+- *Silver:* Identify why its important to test products.
+- *Gold:* Identify areas of strength and weakness of your box
+- *Platinum:* As for gold but in more detail, and suggest at least one area for improvement. 
